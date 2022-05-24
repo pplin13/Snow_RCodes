@@ -1,0 +1,674 @@
+{
+    "name": "NIVOPROFILOBS", 
+    "snow_profile": {
+        "amendment": 0, 
+        "metadata": {
+            "date_time_report": "2016-03-12T10:22:42.998274Z", 
+            "operation_name": "METEO-FRANCE", 
+            "state_identifier": 614, 
+            "type_profile": "obs_regular"
+        }, 
+        "obs_point": {
+            "aspect_position": 0, 
+            "elevation_position": 1325, 
+            "latitude": 45.295, 
+            "longitude": 5.765333, 
+            "massif": 7, 
+            "name": "COL DE PORTE S", 
+            "num_int": "07868", 
+            "num_poste": "38472401", 
+            "obs_point_sub_type": "Prairie", 
+            "slope_angle_position": 2
+        }, 
+        "snow_profile_measurements": {
+            "comment": {
+                "long_annotation": "058/055 : couche sabl\u00e9e.", 
+                "short_annotation": "Observateurs : PH/IP/RG"
+            }, 
+            "density_profile": {
+                "layers": [], 
+                "nb": 0
+            }, 
+            "hardness_profile": {
+                "layers": [
+                    {
+                        "depth_top": 0.0, 
+                        "drop_height": 0.0, 
+                        "hardness": 1.0, 
+                        "nDrops": 0, 
+                        "penetration_depth": 2.0, 
+                        "thickness": 2.0, 
+                        "weight_hammer": 0.0, 
+                        "weight_tube": 1.0
+                    }, 
+                    {
+                        "depth_top": 2.0, 
+                        "drop_height": 0.0, 
+                        "hardness": 2.0, 
+                        "nDrops": 0, 
+                        "penetration_depth": 28.0, 
+                        "thickness": 26.0, 
+                        "weight_hammer": 1.0, 
+                        "weight_tube": 1.0
+                    }, 
+                    {
+                        "depth_top": 28.0, 
+                        "drop_height": 5.0, 
+                        "hardness": 2.0, 
+                        "nDrops": 1, 
+                        "penetration_depth": 38.0, 
+                        "thickness": 10.0, 
+                        "weight_hammer": 1.0, 
+                        "weight_tube": 1.0
+                    }, 
+                    {
+                        "depth_top": 38.0, 
+                        "drop_height": 5.0, 
+                        "hardness": 4.0, 
+                        "nDrops": 1, 
+                        "penetration_depth": 40.0, 
+                        "thickness": 2.0, 
+                        "weight_hammer": 1.0, 
+                        "weight_tube": 1.0
+                    }, 
+                    {
+                        "depth_top": 40.0, 
+                        "drop_height": 5.0, 
+                        "hardness": 5.0, 
+                        "nDrops": 2, 
+                        "penetration_depth": 43.0, 
+                        "thickness": 3.0, 
+                        "weight_hammer": 1.0, 
+                        "weight_tube": 1.0
+                    }, 
+                    {
+                        "depth_top": 43.0, 
+                        "drop_height": 5.0, 
+                        "hardness": 7.0, 
+                        "nDrops": 2, 
+                        "penetration_depth": 45.0, 
+                        "thickness": 2.0, 
+                        "weight_hammer": 1.0, 
+                        "weight_tube": 1.0
+                    }, 
+                    {
+                        "depth_top": 45.0, 
+                        "drop_height": 5.0, 
+                        "hardness": 3.0, 
+                        "nDrops": 1, 
+                        "penetration_depth": 48.0, 
+                        "thickness": 3.0, 
+                        "weight_hammer": 1.0, 
+                        "weight_tube": 1.0
+                    }, 
+                    {
+                        "depth_top": 48.0, 
+                        "drop_height": 5.0, 
+                        "hardness": 4.0, 
+                        "nDrops": 4, 
+                        "penetration_depth": 55.0, 
+                        "thickness": 7.0, 
+                        "weight_hammer": 1.0, 
+                        "weight_tube": 1.0
+                    }, 
+                    {
+                        "depth_top": 55.0, 
+                        "drop_height": 5.0, 
+                        "hardness": 9.0, 
+                        "nDrops": 6, 
+                        "penetration_depth": 59.0, 
+                        "thickness": 4.0, 
+                        "weight_hammer": 1.0, 
+                        "weight_tube": 1.0
+                    }, 
+                    {
+                        "depth_top": 59.0, 
+                        "drop_height": 5.0, 
+                        "hardness": 8.0, 
+                        "nDrops": 5, 
+                        "penetration_depth": 63.0, 
+                        "thickness": 4.0, 
+                        "weight_hammer": 1.0, 
+                        "weight_tube": 1.0
+                    }, 
+                    {
+                        "depth_top": 63.0, 
+                        "drop_height": 10.0, 
+                        "hardness": 17.0, 
+                        "nDrops": 3, 
+                        "penetration_depth": 65.0, 
+                        "thickness": 2.0, 
+                        "weight_hammer": 1.0, 
+                        "weight_tube": 1.0
+                    }, 
+                    {
+                        "depth_top": 65.0, 
+                        "drop_height": 10.0, 
+                        "hardness": 22.0, 
+                        "nDrops": 10, 
+                        "penetration_depth": 70.0, 
+                        "thickness": 5.0, 
+                        "weight_hammer": 1.0, 
+                        "weight_tube": 1.0
+                    }, 
+                    {
+                        "depth_top": 70.0, 
+                        "drop_height": 10.0, 
+                        "hardness": 15.0, 
+                        "nDrops": 4, 
+                        "penetration_depth": 73.0, 
+                        "thickness": 3.0, 
+                        "weight_hammer": 1.0, 
+                        "weight_tube": 1.0
+                    }, 
+                    {
+                        "depth_top": 73.0, 
+                        "drop_height": 10.0, 
+                        "hardness": 7.0, 
+                        "nDrops": 1, 
+                        "penetration_depth": 75.0, 
+                        "thickness": 2.0, 
+                        "weight_hammer": 1.0, 
+                        "weight_tube": 1.0
+                    }, 
+                    {
+                        "depth_top": 75.0, 
+                        "drop_height": 10.0, 
+                        "hardness": 7.0, 
+                        "nDrops": 1, 
+                        "penetration_depth": 77.0, 
+                        "thickness": 2.0, 
+                        "weight_hammer": 1.0, 
+                        "weight_tube": 1.0
+                    }, 
+                    {
+                        "depth_top": 77.0, 
+                        "drop_height": 10.0, 
+                        "hardness": 7.0, 
+                        "nDrops": 1, 
+                        "penetration_depth": 79.0, 
+                        "thickness": 2.0, 
+                        "weight_hammer": 1.0, 
+                        "weight_tube": 1.0
+                    }, 
+                    {
+                        "depth_top": 79.0, 
+                        "drop_height": 10.0, 
+                        "hardness": 4.0, 
+                        "nDrops": 1, 
+                        "penetration_depth": 84.0, 
+                        "thickness": 5.0, 
+                        "weight_hammer": 1.0, 
+                        "weight_tube": 1.0
+                    }, 
+                    {
+                        "depth_top": 84.0, 
+                        "drop_height": 10.0, 
+                        "hardness": 3.0, 
+                        "nDrops": 1, 
+                        "penetration_depth": 93.0, 
+                        "thickness": 9.0, 
+                        "weight_hammer": 1.0, 
+                        "weight_tube": 1.0
+                    }, 
+                    {
+                        "depth_top": 93.0, 
+                        "drop_height": 10.0, 
+                        "hardness": 5.0, 
+                        "nDrops": 1, 
+                        "penetration_depth": 96.0, 
+                        "thickness": 3.0, 
+                        "weight_hammer": 1.0, 
+                        "weight_tube": 1.0
+                    }, 
+                    {
+                        "depth_top": 96.0, 
+                        "drop_height": 10.0, 
+                        "hardness": 9.0, 
+                        "nDrops": 3, 
+                        "penetration_depth": 100.0, 
+                        "thickness": 4.0, 
+                        "weight_hammer": 1.0, 
+                        "weight_tube": 1.0
+                    }, 
+                    {
+                        "depth_top": 100.0, 
+                        "drop_height": 10.0, 
+                        "hardness": 17.0, 
+                        "nDrops": 10, 
+                        "penetration_depth": 107.0, 
+                        "thickness": 7.0, 
+                        "weight_hammer": 1.0, 
+                        "weight_tube": 2.0
+                    }, 
+                    {
+                        "depth_top": 107.0, 
+                        "drop_height": 10.0, 
+                        "hardness": 11.0, 
+                        "nDrops": 5, 
+                        "penetration_depth": 113.0, 
+                        "thickness": 6.0, 
+                        "weight_hammer": 1.0, 
+                        "weight_tube": 2.0
+                    }, 
+                    {
+                        "depth_top": 113.0, 
+                        "drop_height": 10.0, 
+                        "hardness": 7.0, 
+                        "nDrops": 3, 
+                        "penetration_depth": 120.0, 
+                        "thickness": 7.0, 
+                        "weight_hammer": 1.0, 
+                        "weight_tube": 2.0
+                    }, 
+                    {
+                        "depth_top": 120.0, 
+                        "drop_height": 10.0, 
+                        "hardness": 10.0, 
+                        "nDrops": 3, 
+                        "penetration_depth": 124.0, 
+                        "thickness": 4.0, 
+                        "weight_hammer": 1.0, 
+                        "weight_tube": 2.0
+                    }, 
+                    {
+                        "depth_top": 124.0, 
+                        "drop_height": 10.0, 
+                        "hardness": 13.0, 
+                        "nDrops": 1, 
+                        "penetration_depth": 125.0, 
+                        "thickness": 1.0, 
+                        "weight_hammer": 1.0, 
+                        "weight_tube": 2.0
+                    }
+                ], 
+                "nb": 25
+            }, 
+            "hs": {
+                "snow_height": 125.0
+            }, 
+            "lwc_profile": {
+                "layers": [], 
+                "nb": 0
+            }, 
+            "observed_weather": {
+                "air_tempe_pres": 0.0, 
+                "current_weather": "1"
+            }, 
+            "shear_strength_profile": {
+                "nb": 0, 
+                "obss": []
+            }, 
+            "strat_profile": {
+                "layers": [
+                    {
+                        "density": 200.0, 
+                        "depth_top": 0.0, 
+                        "grain_form_primary": "MF", 
+                        "grain_form_secondary": "MF", 
+                        "grain_size": {
+                            "avg": 0.5
+                        }, 
+                        "hardness": "1F", 
+                        "lwc": {
+                            "enum": "M"
+                        }, 
+                        "shear_strength": {
+                            "shear": 3.915073889889196, 
+                            "type": "estimated"
+                        }, 
+                        "shear_stress": -1.0, 
+                        "skier_shear_stress": -1.0, 
+                        "thickness": 2.0
+                    }, 
+                    {
+                        "density": 120.0, 
+                        "depth_top": 2.0, 
+                        "grain_form_primary": "RG", 
+                        "grain_form_secondary": "DF", 
+                        "grain_size": {
+                            "avg": 0.2
+                        }, 
+                        "hardness": "F+", 
+                        "lwc": {
+                            "enum": "D"
+                        }, 
+                        "shear_strength": {
+                            "shear": 0.9314399999999998, 
+                            "type": "estimated"
+                        }, 
+                        "shear_stress": 0.05919790243912296, 
+                        "skier_shear_stress": 0.5209415414642822, 
+                        "thickness": 26.0
+                    }, 
+                    {
+                        "depth_top": 28.0, 
+                        "grain_form_primary": "MF", 
+                        "grain_form_secondary": "MF", 
+                        "grain_size": {
+                            "avg": 0.5
+                        }, 
+                        "hardness": "4F", 
+                        "lwc": {
+                            "enum": "D"
+                        }, 
+                        "shear_strength": {
+                            "shear": 30.308465999999992, 
+                            "type": "estimated"
+                        }, 
+                        "shear_stress": 1.5695469338453423, 
+                        "skier_shear_stress": 1.9262621460829201, 
+                        "thickness": 2.0
+                    }, 
+                    {
+                        "density": 165.0, 
+                        "depth_top": 30.0, 
+                        "grain_form_primary": "RG", 
+                        "grain_form_secondary": "RG", 
+                        "grain_size": {
+                            "avg": 0.3
+                        }, 
+                        "hardness": "4F", 
+                        "lwc": {
+                            "enum": "D"
+                        }, 
+                        "shear_strength": {
+                            "shear": 2.560875, 
+                            "type": "estimated"
+                        }, 
+                        "shear_stress": 0.08641098380679822, 
+                        "skier_shear_stress": 0.1326168570923778, 
+                        "thickness": 14.0
+                    }, 
+                    {
+                        "depth_top": 44.0, 
+                        "grain_form_primary": "MF", 
+                        "grain_form_secondary": "MF", 
+                        "grain_size": {
+                            "avg": 0.7
+                        }, 
+                        "hardness": "1F", 
+                        "lwc": {
+                            "enum": "D"
+                        }, 
+                        "shear_strength": {
+                            "shear": 28.618932, 
+                            "type": "estimated"
+                        }, 
+                        "shear_stress": 0.9107353529927306, 
+                        "skier_shear_stress": 0.9656816789651427, 
+                        "thickness": 1.0
+                    }, 
+                    {
+                        "density": 185.0, 
+                        "depth_top": 45.0, 
+                        "grain_form_primary": "RG", 
+                        "grain_form_secondary": "RG", 
+                        "grain_size": {
+                            "avg": 0.3
+                        }, 
+                        "hardness": "4F", 
+                        "lwc": {
+                            "enum": "D"
+                        }, 
+                        "shear_strength": {
+                            "shear": 3.3658749999999995, 
+                            "type": "estimated"
+                        }, 
+                        "shear_stress": 0.09691055086131649, 
+                        "skier_shear_stress": 0.10711166147829718, 
+                        "thickness": 4.0
+                    }, 
+                    {
+                        "depth_top": 49.0, 
+                        "grain_form_primary": "PPgp", 
+                        "grain_form_secondary": "PPgp", 
+                        "grain_size": {
+                            "avg": 2.0
+                        }, 
+                        "lwc": {
+                            "enum": "D"
+                        }, 
+                        "shear_strength": {
+                            "shear": 0.9376679999999998, 
+                            "type": "estimated"
+                        }, 
+                        "shear_stress": 0.02615584917407431, 
+                        "skier_shear_stress": 0.026997414462815436, 
+                        "thickness": 1.0
+                    }, 
+                    {
+                        "density": 270.0, 
+                        "depth_top": 50.0, 
+                        "grain_form_primary": "RG", 
+                        "grain_form_secondary": "RG", 
+                        "grain_size": {
+                            "avg": 0.4
+                        }, 
+                        "hardness": "1F-", 
+                        "lwc": {
+                            "enum": "D"
+                        }, 
+                        "shear_strength": {
+                            "shear": 7.5688467, 
+                            "type": "estimated"
+                        }, 
+                        "shear_stress": 0.14028671205753257, 
+                        "skier_shear_stress": 0.21112975243571294, 
+                        "thickness": 15.0
+                    }, 
+                    {
+                        "depth_top": 65.0, 
+                        "grain_form_primary": "MF", 
+                        "grain_form_secondary": "MF", 
+                        "grain_size": {
+                            "avg": 1.5
+                        }, 
+                        "hardness": "P", 
+                        "lwc": {
+                            "enum": "M"
+                        }, 
+                        "shear_strength": {
+                            "shear": 10.219527840996165, 
+                            "type": "estimated"
+                        }, 
+                        "shear_stress": 0.1776422977028689, 
+                        "skier_shear_stress": 0.18941643508168376, 
+                        "thickness": 2.0
+                    }, 
+                    {
+                        "depth_top": 67.0, 
+                        "grain_form_primary": "MF", 
+                        "grain_form_secondary": "MF", 
+                        "grain_size": {
+                            "avg": 2.5
+                        }, 
+                        "hardness": "P-", 
+                        "lwc": {
+                            "enum": "M"
+                        }, 
+                        "shear_strength": {
+                            "shear": 5.0260448955938655, 
+                            "type": "estimated"
+                        }, 
+                        "shear_stress": 0.07991464303308171, 
+                        "skier_shear_stress": 0.08736589180073502, 
+                        "thickness": 3.0
+                    }, 
+                    {
+                        "density": 360.0, 
+                        "depth_top": 70.0, 
+                        "grain_form_primary": "MF", 
+                        "grain_form_secondary": "MF", 
+                        "grain_size": {
+                            "avg": 1.0
+                        }, 
+                        "hardness": "1F", 
+                        "lwc": {
+                            "enum": "W"
+                        }, 
+                        "shear_strength": {
+                            "shear": 10.634669544822064, 
+                            "type": "estimated"
+                        }, 
+                        "shear_stress": 0.13464230800387317, 
+                        "skier_shear_stress": 0.16909236548887266, 
+                        "thickness": 10.0
+                    }, 
+                    {
+                        "depth_top": 80.0, 
+                        "grain_form_primary": "IF", 
+                        "grain_form_secondary": "IF", 
+                        "hardness": "K", 
+                        "shear_strength": {
+                            "shear": 7.887630429025424, 
+                            "type": "estimated"
+                        }, 
+                        "shear_stress": 0.09738284498689494, 
+                        "skier_shear_stress": 0.09986288348401451, 
+                        "thickness": 1.0
+                    }, 
+                    {
+                        "density": 400.0, 
+                        "depth_top": 81.0, 
+                        "grain_form_primary": "MF", 
+                        "grain_form_secondary": "MF", 
+                        "grain_size": {
+                            "avg": 1.0
+                        }, 
+                        "hardness": "1F-", 
+                        "lwc": {
+                            "enum": "M"
+                        }, 
+                        "shear_strength": {
+                            "shear": 12.816269313697315, 
+                            "type": "estimated"
+                        }, 
+                        "shear_stress": 0.12087626658584125, 
+                        "skier_shear_stress": 0.15823317016645444, 
+                        "thickness": 14.0
+                    }, 
+                    {
+                        "depth_top": 95.0, 
+                        "grain_form_primary": "IF", 
+                        "grain_form_secondary": "MF", 
+                        "hardness": "P", 
+                        "lwc": {
+                            "enum": "M"
+                        }, 
+                        "shear_strength": {
+                            "shear": 7.887630429025424, 
+                            "type": "estimated"
+                        }, 
+                        "shear_stress": 0.07300691564594688, 
+                        "skier_shear_stress": 0.07439195409622833, 
+                        "thickness": 1.0
+                    }, 
+                    {
+                        "density": 420.0, 
+                        "depth_top": 96.0, 
+                        "grain_form_primary": "MF", 
+                        "grain_form_secondary": "MF", 
+                        "grain_size": {
+                            "avg": 1.5
+                        }, 
+                        "hardness": "P-", 
+                        "lwc": {
+                            "enum": "M"
+                        }, 
+                        "shear_strength": {
+                            "shear": 11.095751609402386, 
+                            "type": "estimated"
+                        }, 
+                        "shear_stress": 0.08260500224306035, 
+                        "skier_shear_stress": 0.10270088197782223, 
+                        "thickness": 14.0
+                    }, 
+                    {
+                        "density": 400.0, 
+                        "depth_top": 110.0, 
+                        "grain_form_primary": "MF", 
+                        "grain_form_secondary": "MF", 
+                        "grain_size": {
+                            "avg": 1.5
+                        }, 
+                        "hardness": "1F", 
+                        "lwc": {
+                            "enum": "M"
+                        }, 
+                        "shear_strength": {
+                            "shear": 10.219527840996165, 
+                            "type": "estimated"
+                        }, 
+                        "shear_stress": 0.0634190394295679, 
+                        "skier_shear_stress": 0.07608174280984768, 
+                        "thickness": 15.0
+                    }
+                ], 
+                "nb": 16
+            }, 
+            "temp_profile": {
+                "nb": 14, 
+                "obss": [
+                    {
+                        "depth": 0.0, 
+                        "snow_temp": -0.0
+                    }, 
+                    {
+                        "depth": 4.0, 
+                        "snow_temp": -0.0
+                    }, 
+                    {
+                        "depth": 7.0, 
+                        "snow_temp": -0.4
+                    }, 
+                    {
+                        "depth": 10.0, 
+                        "snow_temp": -1.0
+                    }, 
+                    {
+                        "depth": 15.0, 
+                        "snow_temp": -2.2
+                    }, 
+                    {
+                        "depth": 20.0, 
+                        "snow_temp": -2.4
+                    }, 
+                    {
+                        "depth": 30.0, 
+                        "snow_temp": -2.3
+                    }, 
+                    {
+                        "depth": 40.0, 
+                        "snow_temp": -1.5
+                    }, 
+                    {
+                        "depth": 50.0, 
+                        "snow_temp": -0.9
+                    }, 
+                    {
+                        "depth": 60.0, 
+                        "snow_temp": -0.5
+                    }, 
+                    {
+                        "depth": 70.0, 
+                        "snow_temp": -0.0
+                    }, 
+                    {
+                        "depth": 80.0, 
+                        "snow_temp": -0.0
+                    }, 
+                    {
+                        "depth": 105.0, 
+                        "snow_temp": -0.0
+                    }, 
+                    {
+                        "depth": 125.0, 
+                        "snow_temp": -0.0
+                    }
+                ]
+            }
+        }, 
+        "valid_time": "2016-03-11T14:00:00Z"
+    }
+}
